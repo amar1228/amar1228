@@ -1,4 +1,4 @@
-package Java;
+package AMAR;
 
 public class greaternum {
 
