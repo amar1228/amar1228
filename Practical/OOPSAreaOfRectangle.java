@@ -1,7 +1,7 @@
 package AMAR;
 
 import java.util.Scanner;
-import ROHIT.Area;
+import AMAR.Area;
 
 public class AreaOFARectangle {
 
@@ -21,7 +21,7 @@ public class AreaOFARectangle {
 }
 
 
-package ROHIT;
+package AMAR;
 
 public class Area {
 
